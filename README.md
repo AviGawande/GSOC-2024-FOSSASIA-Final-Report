@@ -1,13 +1,13 @@
 This is the report to showcase my final evaluation report during Google Summer of Code 2024 with Fossasia Project.Fossasia is an organization aiming to develop Open Source Software Application with developer's community in Asia.
 
-Fossasia Community has been very welcoming and supportive for me.I started contributing to the FOSSASIA project and while working on,i had developed keen interest in EVENTYAY Softwares,including Eventyay-Talk,Eventyay-Tickets.Later on i only focused on understanding the software and going thoroughly knowing the codebase.I applied for GSOC 2024 and got selected in FOSSASIA for the project Interconnection between Eventyay-Tickets and Eventyay-Talk. 
+Fossasia Community has been very welcoming and supportive for me.I started contributing to the FOSSASIA project and while working on,I had developed keen interest in EVENTYAY Softwares,including Eventyay-Talk,Eventyay-Tickets.Later on I focused on understanding the software and going thoroughly knowing the codebase.I applied for GSOC 2024 and got selected in FOSSASIA for the project Interconnection between Eventyay-Tickets and Eventyay-Talk. 
 
 ## About Me
 My name is [Abhishek Gawande](https://github.com/AviGawande), I am 2024 Computer Engineering Graduate from Government College of Engineering Jalgaon,Maharashtra.I am interested in Artificial Intelligence,Web3 and Computer Science.I like to contribute to open source repositories and work on interesting projects.
 
 # Project : Interconnection Between Eventyay-Tickets and Eventyay-Talk
 Contributor :  [Abhishek Gawande](https://github.com/AviGawande)
-Mentors : Mario Behling,Nguyễn Hồng Quân,Norbert Prening,Mohit Karekar
+Mentors : Mario Behling, Nguyễn Hồng Quân, Norbert Preining, Mohit Karekar
 Project Length : 175 Hours
 Proposal Link : [Interconnection Between Eventyay-Tickets and Eventyay-Talk](https://docs.google.com/document/d/1iPl5hWZwkbmW3zz7evAGZIMX24JS4fQ0E1GnN-NZJUw/edit?usp=sharing)
 
@@ -68,7 +68,7 @@ Here's a summary of my work on the Fossasia as a part of Google Summer of Code(G
 
 ## Acknowledgements
 
-I am highly grateful to my mentor, Mario Behling for always being there with me whenever I was struck and needed help. I would also like to thank Anurag Bhat for reviewing my PR. I would like to thank Jason Moore (@moorepants), Oscar Benjamin(@oscarbenjamin), Christopher Smith(@smichr), Aaron Meurer(@asmeurer), S.Y. Lee (@sylee957), and other members and contributors in the community for their continuous support, allowing me to contribute to Sympy and learn a lot in the process.
+I am highly grateful to my mentor, [Mario Behling](https://github.com/mariobehling) for always being there with me whenever I was struck and needed help. I would also like to thank [Nguyễn Hồng Quân](https://github.com/hongquan) and [Norbert Preining](https://github.com/norbusan) for reviewing my PR. I would like to thank Marco , Hong Phuc Dang , Mohit Karekar and other members and contributors in the community for their continuous support, allowing me to contribute to Fossasia and learn a lot in the process.
 
 
 
