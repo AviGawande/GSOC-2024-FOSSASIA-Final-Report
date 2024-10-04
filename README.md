@@ -45,11 +45,30 @@ Here's a summary of my work on the Fossasia as a part of Google Summer of Code(G
 2. ([#322](https://github.com/fossasia/eventyay-tickets/pull/308)) In this PR, i worked on the `failing test-cases` due to 
    deprecated packages and modules and committed the changes in codebase.
 
+
+### Eventyay-Talk
+
+
+### Merged Pull Requests:
+1. ([#118](https://github.com/fossasia/eventyay-talk/pull/118)) In this PR I upgraded the python dependencies from 3.9 to 3.11.
+2. ([#190](https://github.com/fossasia/eventyay-talk/pull/190)) The `MariaDb-Connection` is no longer supported to Eventyay-Talk and hence worked on implement the same.
+
+
+### Open Pull Requests:
+1. ([#140](https://github.com/fossasia/eventyay-talk/pull/140)) Added the `add-online-link` to eventyay-talk.
+
+
 ## Future Work
-- 
-- 
+- As the project(Interconnection between eventyay-tickets and eventyay-talk) itself is a great project and there are lot of work and features to implement.So, i had listed some milestones to achieve in the future while working on this project.
+- Here are some of the features that the Interconnection project have:
+   - Working on the adding the `plugin-support` for eventyay-tickets and eventyay-talk viz: developing the plugins respectively for the eventyay-component and integrating 
+     and testing them with existing system.
+   - Working on the `REST-APIs` support for all the Eventyay-Components Respectively.
+- Working on the `User data-models` for developing a unified-Eventyay platform for all the Event related tasks and manage them as well.
 
 ## Acknowledgements
+
+I am highly grateful to my mentor, Mario Behling for always being there with me whenever I was struck and needed help. I would also like to thank Anurag Bhat for reviewing my PR. I would like to thank Jason Moore (@moorepants), Oscar Benjamin(@oscarbenjamin), Christopher Smith(@smichr), Aaron Meurer(@asmeurer), S.Y. Lee (@sylee957), and other members and contributors in the community for their continuous support, allowing me to contribute to Sympy and learn a lot in the process.
 
 
 
