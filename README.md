@@ -3,7 +3,7 @@ This is the report to showcase my final evaluation report during Google Summer o
 Fossasia Community has been very welcoming and supportive for me.I started contributing to the FOSSASIA project and while working on,i had developed keen interest in EVENTYAY Softwares,including Eventyay-Talk,Eventyay-Tickets.Later on i only focused on understanding the software and going thoroughly knowing the codebase.I applied for GSOC 2024 and got selected in FOSSASIA for the project Interconnection between Eventyay-Tickets and Eventyay-Talk. 
 
 ## About Me
-My name is [Abhishek Gawande](https://github.com/AviGawande, I am 2024 Computer Engineering Graduate from Government College of Engineering Jalgaon,Maharashtra.I am interested in Artificial Intelligence,Web3 and Computer Science.I like to contribute to open source repositories and work on interesting projects.
+My name is [Abhishek Gawande](https://github.com/AviGawande), I am 2024 Computer Engineering Graduate from Government College of Engineering Jalgaon,Maharashtra.I am interested in Artificial Intelligence,Web3 and Computer Science.I like to contribute to open source repositories and work on interesting projects.
 
 # Project : Interconnection Between Eventyay-Tickets and Eventyay-Talk
 Contributor :  [Abhishek Gawande](https://github.com/AviGawande)
@@ -19,7 +19,7 @@ In this project,I focused on solving and fixing the major failing issues in the 
 Here's a summary of my work on the Fossasia as a part of Google Summer of Code(GSOC2024):
 
 ### Merged Pull Requests:
-1. ([])
+1. ([#160](https://github.com/fossasia/eventyay-tickets/pull/160))
 2. ([])
 3. ([])
 4. ([])
