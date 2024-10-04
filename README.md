@@ -19,19 +19,19 @@ In this project,I focused on solving and fixing the major failing issues in the 
 Here's a summary of my work on the Fossasia as a part of Google Summer of Code(GSOC2024):
 
 ### Merged Pull Requests:
-1.([])
-2.([])
-3.([])
-4.([])
-5.([])
+1. ([])
+2. ([])
+3. ([])
+4. ([])
+5. ([])
 
-## Under Review:
-1.([])
-2.([])
-3.([])
+### Under Review:
+1. ([])
+2. ([])
+3. ([])
 
-## Open Pull Requests:
-1.([])
+### Open Pull Requests:
+1. ([])
 
 # Future Work
 - jknsdofiwr
