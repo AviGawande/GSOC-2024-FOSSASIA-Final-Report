@@ -5,7 +5,7 @@ Fossasia Community has been very welcoming and supportive for me.I started contr
 ## About Me
 My name is [Abhishek Gawande](https://github.com/AviGawande, I am 2024 Computer Engineering Graduate from Government College of Engineering Jalgaon,Maharashtra.I am interested in Artificial Intelligence,Web3 and Computer Science.I like to contribute to open source repositories and work on interesting projects.
 
-#Project : Interconnection Between Eventyay-Tickets and Eventyay-Talk
+# Project : Interconnection Between Eventyay-Tickets and Eventyay-Talk
 Contributor :  [Abhishek Gawande](https://github.com/AviGawande)
 Mentors : Mario Behling,Nguyễn Hồng Quân,Norbert Prening,Mohit Karekar
 Project Length : 175 Hours
@@ -33,11 +33,11 @@ Here's a summary of my work on the Fossasia as a part of Google Summer of Code(G
 ### Open Pull Requests:
 1. ([])
 
-# Future Work
+## Future Work
 - jknsdofiwr
 - kdsjfpiewjrp
 
-# Acknowledgements
+## Acknowledgements
 
 
 
