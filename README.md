@@ -23,9 +23,12 @@ Here's a summary of my work on the Fossasia as a part of Google Summer of Code(G
 ### Merged Pull Requests:
 1. ([#160](https://github.com/fossasia/eventyay-tickets/pull/160)) In this PR i perform the `System-Branding` changes to 
     Eventyay-Tickets.
-2. ([#162](https://github.com/fossasia/eventyay-tickets/pull/162)) Deactivated the `Perform-Update` Checks which were turned-on by default whenever new product is added.
-3. ([#183](https://github.com/fossasia/eventyay-tickets/pull/183)) MariaDb-Database is no-longer support to any of the Eventyay-software and Removed the Support for same.
-4. ([#206](https://github.com/fossasia/eventyay-tickets/pull/206)) Improve flow for the required fields of `Yes-No Questions`.
+2. ([#162](https://github.com/fossasia/eventyay-tickets/pull/162)) Deactivated the `Perform-Update` Checks which were  
+    turned-on by default whenever new product is added.
+3. ([#183](https://github.com/fossasia/eventyay-tickets/pull/183)) MariaDb-Database is no-longer support to any of the 
+    Eventyay-software and Removed the Support for same.
+4. ([#206](https://github.com/fossasia/eventyay-tickets/pull/206)) Improve flow for the required fields of `Yes-No 
+    Questions`.
 
 
 ### Under Review:
@@ -37,12 +40,14 @@ Here's a summary of my work on the Fossasia as a part of Google Summer of Code(G
     Dashboard.
 
 ### Open Pull Requests:
-1. ([#308](https://github.com/fossasia/eventyay-tickets/pull/308)) Added the component to display the `Admin Information` in the Global Setting's of created Event.
-2. ([#322](https://github.com/fossasia/eventyay-tickets/pull/308)) In this PR, i worked on the `failing test-cases` due to deprecated packages and modules and committed the changes in codebase.
+1. ([#308](https://github.com/fossasia/eventyay-tickets/pull/308)) Added the component to display the `Admin Information` in 
+    the Global Setting's of created Event.
+2. ([#322](https://github.com/fossasia/eventyay-tickets/pull/308)) In this PR, i worked on the `failing test-cases` due to 
+   deprecated packages and modules and committed the changes in codebase.
 
 ## Future Work
-- jknsdofiwr
-- kdsjfpiewjrp
+- 
+- 
 
 ## Acknowledgements
 
