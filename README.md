@@ -20,7 +20,7 @@ In this project,I focused on solving and fixing the major failing issues in the 
 
 Here's a summary of my work on the Fossasia as a part of Google Summer of Code(GSOC2024):
 
-### Eventyay-Tickets:
+## Eventyay-Tickets:
 
 ### Merged Pull Requests:
 1. ([#160](https://github.com/fossasia/eventyay-tickets/pull/160)) In this PR i perform the `System-Branding` changes to 
@@ -48,7 +48,7 @@ Here's a summary of my work on the Fossasia as a part of Google Summer of Code(G
    deprecated packages and modules and committed the changes in codebase.
 
 
-### Eventyay-Talk
+## Eventyay-Talk
 
 
 ### Merged Pull Requests:
